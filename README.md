@@ -21,7 +21,7 @@
 
 ---
 
-### Questions/Hypothesis
+## Questions/Hypothesis
 1.  **Analytical Questions**
    - ปัจจัยใดส่งผลต่อราคารถยนต์ Toyota มากที่สุด?
      (ปีจดทะเบียน, เลขไมล์, ขนาดเครื่องยนต์)
